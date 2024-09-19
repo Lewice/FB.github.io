@@ -286,8 +286,8 @@
 
 </body>
 <footer>
-  <div style="text-align: center;">
-  <p><a href="https://discord.gg/JeDxEcpQJa">Lewice Menus</a></p>
-</div>
+  <div style="text-align: center; margin-top: 20px; padding-bottom: 20px;">
+    <p><a href="https://discord.gg/JeDxEcpQJa">Lewice Menus</a></p>
+  </div>
 </footer>
 </html>
