@@ -285,4 +285,9 @@
   </form>
 
 </body>
+<footer>
+  <div style="text-align: center;">
+  <p><a href="https://discord.gg/JeDxEcpQJa">Lewice Menus</a></p>
+</div>
+</footer>
 </html>
