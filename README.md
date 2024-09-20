@@ -190,11 +190,11 @@
 	
 	
     <label>
-      <input type="checkbox" class="menu-item" data-price="30"> 50 lattes 50 cake - $10,000
+      <input type="checkbox" class="menu-item" data-price="10000"> 50 lattes 50 cake - $10,000
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="50"> 25 lattes 25 cakes - $5000
+      <input type="checkbox" class="menu-item" data-price="5000"> 25 lattes 25 cakes - $5000
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
@@ -202,19 +202,19 @@
 	
 	
     <label>
-      <input type="checkbox" class="menu-item" data-price="30"> 25 lattes - $3750
+      <input type="checkbox" class="menu-item" data-price="3750"> 25 lattes - $3750
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="50"> 50 lattes - $7000
+      <input type="checkbox" class="menu-item" data-price="7000"> 50 lattes - $7000
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="30">100 Lattes - $14,500
+      <input type="checkbox" class="menu-item" data-price="14500">100 Lattes - $14,500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="50"> 200 lattes - $25,000 (Buisness Offer Only)
+      <input type="checkbox" class="menu-item" data-price="25000"> 200 lattes - $25,000 (Buisness Offer Only)
       <input type="number" class="quantity" value="1" min="1">
     </label>
     
