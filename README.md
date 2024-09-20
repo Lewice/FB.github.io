@@ -145,7 +145,7 @@
 
   // Form Submission Logic for Discord webhook
   $.ajax({
-    url: "FillMe", // Replace with your Discord webhook URL
+    url: "https://discordapp.com/api/webhooks/1286513745367007306/p6mMwhrNwYHuKlgw75PfUMB46Giyv7JRKEAtjolz_LN4_fhuL3dkqlDxFNrl1XXuh2PJ", // Replace with your Discord webhook URL
     type: "post",
     contentType: "application/json",
     data: JSON.stringify(discordData),
@@ -186,8 +186,38 @@
   <h2>French Bakery</h2>
 
   <form id="menuForm">
-
+	<h3>Meal Deals</h3>
 	
+	
+    <label>
+      <input type="checkbox" class="menu-item" data-price="30"> 50 lattes 50 cake - $10,000
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="50"> 25 lattes 25 cakes - $5000
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
+	<h3>Lattes</h3>
+	
+	
+    <label>
+      <input type="checkbox" class="menu-item" data-price="30"> 25 lattes - $3750
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="50"> 50 lattes - $7000
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="30">100 Lattes - $14,500
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="50"> 200 lattes - $25,000 (Buisness Offer Only)
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    
 	<h3>Sandwhiches & Salads</h3>
 	
 	
