@@ -214,7 +214,11 @@
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="25000"> 200 lattes - $25,000 (Buisness Offer Only)
+      <input type="checkbox" class="menu-item" data-price="15000"> 200 lattes - $15,000 (Buisness Offer Only)
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="25000"> 200 lattes - $25,000 (Non-Buisness Offer Only)
       <input type="number" class="quantity" value="1" min="1">
     </label>
     
